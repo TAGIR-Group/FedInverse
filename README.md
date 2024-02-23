@@ -1,6 +1,6 @@
 # FedInverse: Evaluating Privacy Leakage in Federated Learning
 
-
+![authors.png](https://github.com/TAGIR-Group/FedInverse/blob/main/authors.png)
 
 This repo contains the Pytorch-based implementation code for our published paper **FedInverse** in The Twelfth International Conference on Learning Representations (**ICLR2024**).
 
